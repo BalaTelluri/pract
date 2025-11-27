@@ -1,2 +1,5 @@
-# pract
-Practicaing the git repo
+flow of the work
+data prep
+preprocessing 
+model building
+Deployment 
